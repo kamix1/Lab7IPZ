@@ -1,1 +1,2 @@
-Version: 1.0.0
+Project to practice Git-flow
+Version: 1.0.1
